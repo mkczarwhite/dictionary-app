@@ -7,12 +7,12 @@ export default function App() {
     <div className="App">
       <div className="container">
  <header className="App-header">
-      Search Away!
+      Look up a new word 👀
       </header>
       <main>
         <Dictionary/>
       </main>
-      <footer className="text-center">Coded by Michelle White</footer>
+      <footer className="text-center"><a href="#">Code available on Github</a> by Michelle White</footer>
       </div>
    
     </div>
