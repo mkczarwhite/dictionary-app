@@ -12,7 +12,7 @@ export default function App() {
       <main>
         <Dictionary/>
       </main>
-      <footer className="text-center"><a href="#">Code available on Github</a> by Michelle White</footer>
+      <footer className="text-center"><a href="https://github.com/mkczarwhite/dictionary-app" target="_blank" rel="noreferrer">Code available on Github</a> by Michelle White</footer>
       </div>
    
     </div>
