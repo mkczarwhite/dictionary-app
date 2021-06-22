@@ -6,4 +6,5 @@
 .Meaning .Example {
   opacity: 0.7;
   font-style: italic;
+  margin-top: 15px;
 }

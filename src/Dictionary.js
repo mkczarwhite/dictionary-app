@@ -30,7 +30,7 @@ export default function Dictionary(props){
         return <div className="Dictionary">
         <section>
             <form onSubmit={handleSubmit}>
-            <input type="search" autoFocus={true} onChange={handleKeywordChange}/>
+            <input type="search" autoFocus={true} onChange={handleKeywordChange} defaultValue="sunset"/>
         </form>
         </section>
         
