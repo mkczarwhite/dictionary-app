@@ -10,7 +10,7 @@ export default function App() {
       Look up a new word 👀
       </header>
       <main>
-        <Dictionary/>
+        <Dictionary defaultKeyword="sunset"/>
       </main>
       <footer className="text-center"><a href="https://github.com/mkczarwhite/dictionary-app" target="_blank" rel="noreferrer">Code available on Github</a> by Michelle White</footer>
       </div>
