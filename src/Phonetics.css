@@ -2,21 +2,18 @@
   height: 30px;
   margin: 0 auto;
   display: block;
+  text-align: center;
 }
 .Phonetic a {
   border: 1px solid #ddd;
   text-decoration: none;
-  padding: 10px 15px;
   border-radius: 15px;
   transition: all 150ms ease-in-out;
   max-width: 25%;
   text-align: center;
-  margin: 0 auto;
+  margin-right: 20px;
 }
 .Phonetic a:hover {
   background: purple;
   color: white;
-}
-.phonetic-text {
-  margin-top: 15px;
 }
