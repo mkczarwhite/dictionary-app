@@ -14,6 +14,7 @@
   background: purple;
   color: white;
 }
-.Phonetic text {
-  margin-top: 20px;
+.Phonetic phonetic-text {
+  margin-top: -15px;
+  background-color: blue;
 }
