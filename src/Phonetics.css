@@ -12,6 +12,7 @@
   max-width: 25%;
   text-align: center;
   margin-right: 20px;
+  padding: 10px;
 }
 .Phonetic a:hover {
   background: purple;
