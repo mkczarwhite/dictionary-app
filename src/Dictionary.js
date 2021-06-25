@@ -41,9 +41,11 @@ export default function Dictionary(props){
     if (loaded){
         return <div className="Dictionary">
         <section>
+            
             <form onSubmit={handleSubmit}>
             <input type="search" autoFocus={true} onChange={handleKeywordChange} defaultValue="sunset"/>
         </form>
+        <h2>try it above! ^^</h2>
         </section>
         
         <Results results={results}/>
